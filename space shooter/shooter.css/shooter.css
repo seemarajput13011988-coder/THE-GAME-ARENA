@@ -1,0 +1,4 @@
+body { margin:0; background:#0f1220; color:#e6e8ef; font-family: system-ui, Arial; }
+.wrap { max-width: 640px; margin: 0 auto; padding: 24px; text-align:center; }
+#game { background: #0a0d18; border:1px solid #2a2f4a; border-radius: 8px; width:100%; height:auto; }
+a { color:#9aa3b2; }
